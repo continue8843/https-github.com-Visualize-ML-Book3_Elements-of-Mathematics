@@ -10,6 +10,7 @@
 
 from sympy import oo, erf, lambdify
 import numpy as np
+import matplotlib.pyplot as plt
 
 x_array = np.linspace(-3,3,100)
 
