@@ -6,7 +6,7 @@
 # Beijing, China, 2022
 ###############
 
-Bk3_Ch18_07.py
+# Bk3_Ch18_07.py
 
 import numpy as np
 import matplotlib.pyplot as plt
