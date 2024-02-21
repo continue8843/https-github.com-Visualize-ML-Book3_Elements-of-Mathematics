@@ -10,6 +10,7 @@
 
 import numpy as np
 from scipy.special import factorial
+import matplotlib.pyplot as plt
 
 n_array = np.linspace(0,10,11)
 
